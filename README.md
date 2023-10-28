@@ -8,7 +8,7 @@
 
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Site exemplo](https://desafio-stack-x-web3-angular-ts.vercel.app/)
+- [Site exemplo](https://desafio-web3-angular-ts.vercel.app/)
 
 ## 🔖&nbsp; Sobre
 
