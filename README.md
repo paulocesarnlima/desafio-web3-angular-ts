@@ -13,6 +13,7 @@
 ## 🔖&nbsp; Sobre
 
 
+O Desafio da <strong>Stack X</strong>  tarefa do Módulo WEB 3, ministrado pelo professor Gabriel, que consiste em desenvolver uma Lading Page, utilizando <strong>Angular </strong> +<strong> SASS</strong> com <strong> TypeScript</strong>, e enviar eventos pelos botões trocando a linguagem do texto de acordo com o botão selecionado.
 
 ## 🚀 Tecnólogias e Ferramentas Utilizadas
 
